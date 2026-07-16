@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: ChorewheelTests
-      - path: Chorewheel.storekit
     dependencies:
       - target: Chorewheel
     settings:
